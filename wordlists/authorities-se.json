@@ -4,7 +4,7 @@
         {
             "name": "Swedish Authorities",
             "description": "List of Swedish authorities as commonly referenced in Swedish press",
-            "usage": 1,
+            "usage": 4,
             "entries": [
                 {
                     "value": "MSB",
