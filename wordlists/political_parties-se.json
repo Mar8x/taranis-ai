@@ -1,0 +1,108 @@
+{
+    "version": 4,
+    "data": [
+        {
+            "name": "Swedish Political Parties",
+            "description": "List of major and notable minority political parties in Sweden",
+            "usage": 1,
+            "entries": [
+                {
+                    "value": "Socialdemokraterna",
+                    "category": "Political Party"
+                },
+                {
+                    "value": "S",
+                    "category": "Political Party"
+                },
+                {
+                    "value": "Moderaterna",
+                    "category": "Political Party"
+                },
+                {
+                    "value": "M",
+                    "category": "Political Party"
+                },
+                {
+                    "value": "Sverigedemokraterna",
+                    "category": "Political Party"
+                },
+                {
+                    "value": "SD",
+                    "category": "Political Party"
+                },
+                {
+                    "value": "Vänsterpartiet",
+                    "category": "Political Party"
+                },
+                {
+                    "value": "V",
+                    "category": "Political Party"
+                },
+                {
+                    "value": "Centerpartiet",
+                    "category": "Political Party"
+                },
+                {
+                    "value": "C",
+                    "category": "Political Party"
+                },
+                {
+                    "value": "Kristdemokraterna",
+                    "category": "Political Party"
+                },
+                {
+                    "value": "KD",
+                    "category": "Political Party"
+                },
+                {
+                    "value": "Liberalerna",
+                    "category": "Political Party"
+                },
+                {
+                    "value": "L",
+                    "category": "Political Party"
+                },
+                {
+                    "value": "Miljöpartiet",
+                    "category": "Political Party"
+                },
+                {
+                    "value": "MP",
+                    "category": "Political Party"
+                },
+                {
+                    "value": "Medborgerlig Samling",
+                    "category": "Political Party"
+                },
+                {
+                    "value": "MED",
+                    "category": "Political Party"
+                },
+                {
+                    "value": "Alternativ för Sverige",
+                    "category": "Political Party"
+                },
+                {
+                    "value": "AfS",
+                    "category": "Political Party"
+                },
+                {
+                    "value": "Piratpartiet",
+                    "category": "Political Party"
+                },
+                {
+                    "value": "PP",
+                    "category": "Political Party"
+                },
+                {
+                    "value": "Feministiskt initiativ",
+                    "category": "Political Party"
+                },
+                {
+                    "value": "Fi",
+                    "category": "Political Party"
+                }
+            ]
+        }
+    ]
+}
