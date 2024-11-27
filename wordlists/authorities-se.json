@@ -1,0 +1,132 @@
+{
+    "version": 1,
+    "data": [
+        {
+            "name": "Swedish Authorities",
+            "description": "List of Swedish authorities as commonly referenced in Swedish press",
+            "usage": 1,
+            "entries": [
+                {
+                    "value": "MSB",
+                    "category": "Emergency"
+                },
+                {
+                    "value": "Myndigheten för samhällsskydd och beredskap",
+                    "category": "Emergency"
+                },
+                {
+                    "value": "Försvarsmakten",
+                    "category": "Defense"
+                },
+                {
+                    "value": "SÄPO",
+                    "category": "Security"
+                },
+                {
+                    "value": "Säkerhetspolisen",
+                    "category": "Security"
+                },
+                {
+                    "value": "FRA",
+                    "category": "Intelligence"
+                },
+                {
+                    "value": "Försvarets radioanstalt",
+                    "category": "Intelligence"
+                },
+                {
+                    "value": "Polismyndigheten",
+                    "category": "Law Enforcement"
+                },
+                {
+                    "value": "Regeringskansliet",
+                    "category": "Government"
+                },
+                {
+                    "value": "Migrationsverket",
+                    "category": "Immigration"
+                },
+                {
+                    "value": "Folkhälsomyndigheten",
+                    "category": "Health"
+                },
+                {
+                    "value": "Socialstyrelsen",
+                    "category": "Health"
+                },
+                {
+                    "value": "Livsmedelsverket",
+                    "category": "Food Safety"
+                },
+                {
+                    "value": "Skatteverket",
+                    "category": "Tax"
+                },
+                {
+                    "value": "Finansinspektionen",
+                    "category": "Finance"
+                },
+                {
+                    "value": "Riksbanken",
+                    "category": "Finance"
+                },
+                {
+                    "value": "Kronofogden",
+                    "category": "Enforcement"
+                },
+                {
+                    "value": "Trafikverket",
+                    "category": "Transport"
+                },
+                {
+                    "value": "Skolverket",
+                    "category": "Education"
+                },
+                {
+                    "value": "Arbetsförmedlingen",
+                    "category": "Employment"
+                },
+                {
+                    "value": "Försäkringskassan",
+                    "category": "Social Insurance"
+                },
+                {
+                    "value": "Pensionsmyndigheten",
+                    "category": "Pensions"
+                },
+                {
+                    "value": "Länsstyrelsen",
+                    "category": "Regional"
+                },
+                {
+                    "value": "Naturvårdsverket",
+                    "category": "Environment"
+                },
+                {
+                    "value": "Energimyndigheten",
+                    "category": "Energy"
+                },
+                {
+                    "value": "PTS",
+                    "category": "Communications"
+                },
+                {
+                    "value": "Post- och telestyrelsen",
+                    "category": "Communications"
+                },
+                {
+                    "value": "Datainspektionen",
+                    "category": "Privacy"
+                },
+                {
+                    "value": "IMY",
+                    "category": "Privacy"
+                },
+                {
+                    "value": "Integritetsskyddsmyndigheten",
+                    "category": "Privacy"
+                }
+            ]
+        }
+    ]
+}
